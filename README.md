@@ -3,7 +3,7 @@ A multi-use helmet that tells you what is behind you using machine learning. Thi
 
 ## Resources
 
-https://coral.ai/docs/dev-board-mini/get-started/#5-connect-to-the-internet
+https://coral.ai/docs/dev-board-mini/get-started/
 
 https://coral.ai/docs/dev-board-mini/gpio/#header-pinout
 
