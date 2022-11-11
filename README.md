@@ -7,6 +7,12 @@ https://coral.ai/docs/dev-board-mini/get-started/
 
 https://coral.ai/docs/dev-board-mini/gpio/#header-pinout
 
+## LED Strip stuff
+
 https://github.com/adafruit/Adafruit_CircuitPython_NeoPixel_SPI
+
+## Camera stuff
+
+https://coral.ai/docs/dev-board-mini/camera/#connect-the-coral-camera
 
 https://github.com/google-coral/examples-camera/tree/master/gstreamer
